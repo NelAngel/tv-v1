@@ -10,7 +10,7 @@ android {
     defaultConfig {
         applicationId = "com.lygone.smarttvsimulator"
         minSdk = 23
-        targetSdk = 28
+        targetSdk = 35
         versionCode = 3
         versionName = "2.0"
     }
